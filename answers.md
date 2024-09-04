@@ -58,4 +58,13 @@ Answer 8: commit f61cc40dabdfca29006d5d94db1e5370541ab170 (HEAD -> main)
 
           Initial commit
 
-Answer 9:
+Answer 9: On branch main
+          Your branch is ahead of 'origin/main' by 1 commit.
+             (use "git push" to publish your local commits)
+
+          Changes not staged for commit:
+           (use "git add <file>..." to update what will be committed)
+           (use "git restore <file>..." to discard changes in working directory)
+	          modified:   README.md
+
+Answer 10: 
