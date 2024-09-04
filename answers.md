@@ -72,3 +72,5 @@ Answer 10: No the changes were not reflected in my local copy
 Answer 11: The push got rejected because the remote has work that is not stored locally, it says to update and do git pull to integrate the remote changes.
 
 Answer 12: Yes my changes made online were reflected onto my local copy.
+
+Answer 13: .		..		.git		.gitignore	README.md
